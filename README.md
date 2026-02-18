@@ -33,7 +33,8 @@
 </p>
 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCamposDev&layout=compact&theme=radical&cache_seconds=86400" alt="Top langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielCamposDev&layout=compact&theme=radical" alt="Top langs" />
+
 
 </p>
 
