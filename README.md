@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCamposDev&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dacamposk&layout=compact&theme=radical&cache_seconds=86400" alt="Top langs" />
-
-</p>
 
 ---
 
