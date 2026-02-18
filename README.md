@@ -33,8 +33,7 @@
 </p>
 -->
 <p align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dacamposk&layout=compact&theme=radical&cache_seconds=86400)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dacamposk&layout=compact&theme=radical&cache_seconds=86400" alt="Top langs" />
 
 </p>
 
