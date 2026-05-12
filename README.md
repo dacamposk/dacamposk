@@ -1,4 +1,4 @@
-# Daniel Campos
+# Daniel Campos Kirkman
 
 **Desarrollador Full-Stack junior** | Ingeniero Informático, Duoc UC (2025) | Viña del Mar, Chile
 
