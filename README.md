@@ -1,41 +1,31 @@
-<h1 align="center">Hola 👋, soy Daniel Campos</h1>
-<h3 align="center">Desarrollador apasionado por las soluciones prácticas.</h3>
+# Daniel Campos
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Pythonista🐍+con+toque+de+Django🕊️;Fan+de+Java☕;Frontend+con+HTML+%26+CSS🎨+y+JS⚡;Siempre+aprendiendo+cosas+nuevas+🧑‍💻" />
-</p>
+**Desarrollador Full-Stack junior** | Ingeniero Informático, Duoc UC (2025) | Viña del Mar, Chile
 
----
+Trabajo con **React + TypeScript** en frontend y **Django / Laravel** en backend. Me interesa el desarrollo de plataformas web con foco en integraciones, datos y UX.
 
-### 🚀 Tecnologías que manejo:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="40" alt="ant-design" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" alt="ionic" />
-
-</p>
-
----
-<!-- 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielCamposDev&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
--->
+Actualmente buscando mi primera posición como desarrollador junior, remota o en Valparaíso/Viña del Mar.
 
 ---
 
-### 🤝 ¿Conectamos?
+### 🛠️ Stack principal
 
-- 💼 Puedes contactarme para proyectos o colaboraciones.
-- 📬 Email: [daniel_chat@live.com](mailto:daniel_chat@live.com)
+**Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3 · Ant Design  
+**Backend:** Django · Laravel · Node.js  
+**Bases de datos:** PostgreSQL · MySQL · SQLite  
+**Otros:** Git · REST APIs · Scrum
+
+---
+
+### 📌 Proyectos destacados
+
+**[musicpro](https://github.com/dacamposk/musicpro)** — Tienda online en Django con autenticación, carrito, gestión de productos, integración Webpay Plus y panel admin.
+
+**[capstone_grupo2](https://github.com/dacamposk/capstone_grupo2)** — Documentación técnica completa (UML, requerimientos, manual) del sistema de gestión para Farmacia San Sebastián, desarrollado en Java + MySQL.
+
+---
+
+### 📬 Contacto
+
+- Email: da.camposk@gmail.com
+- Ubicación: Viña del Mar, Chile
