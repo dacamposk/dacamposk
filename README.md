@@ -4,7 +4,6 @@
 
 Trabajo con **React + TypeScript** en frontend y **Django / Laravel** en backend. Me interesa el desarrollo de plataformas web con foco en integraciones, datos y UX.
 
-Actualmente buscando mi primera posición como desarrollador junior, remota o en Valparaíso/Viña del Mar.
 
 ---
 
