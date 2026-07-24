@@ -18,7 +18,7 @@ Trabajo con **React + TypeScript** en frontend y **Django / Laravel** en backend
 
 ### 📌 Proyectos destacados
 
-**[cv job matcher]([https://github.com/dacamposk/musicpro](https://github.com/dacamposk/cv-job-matcher))** — Scrapper Buscador de Empleo del area Informática V1. 
+**[CV Job Matcher](https://github.com/dacamposk/musicpro)** — Scrapper Buscador de Empleo del area Informática V1. 
 
 **[musicpro](https://github.com/dacamposk/musicpro)** — Tienda online en Django con autenticación, carrito, gestión de productos, integración Webpay Plus y panel admin.
 
